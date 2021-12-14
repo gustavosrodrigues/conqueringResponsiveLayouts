@@ -11,11 +11,12 @@ body {
 
 h1, h2 {
     font-family: 'Playfair Display', serif;
-    font-weight: 900;
+    font-weight: 900;    
 }
 
 h1 {        
     font-size: 3.8rem;
+    color: #824936;
 }
 
 h2 {
@@ -71,6 +72,7 @@ img {
 
 .first__title {
     margin-bottom: 3rem;
+    color: #824936;
 }
 
 .main__first .row p {
