@@ -32,10 +32,10 @@ body {
 
 .intro-content, .body-content {
   width: 80%;
-  max-width: 960px;
+  max-width: 900px;
   margin: 0 auto;
 }
 
 .intro-content p, h1 {
-  width: 50%;
+  width: 50%;  
 }

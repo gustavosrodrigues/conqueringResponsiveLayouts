@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+}
+
+body {
+    text-align: left;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 1.3rem;
+}
+
+h1, h2 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+}
+
+h1 {        
+    font-size: 3.8rem;
+}
+
+h2 {
+    font-size: 2.25rem;
+}
+
+img {
+    max-width: 100%;    
+}
+
+.header__mini {
+    font-weight: 300;
+    font-size: 1.1em;
+    text-transform: uppercase;
+    letter-spacing: .4em;
+}
+
+.container {
+    max-width: 1128px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.header, .first__title {
+    text-align: center;
+}
+
+.header {    
+    background-color: #f3eed9;
+}
+
+.header--row {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 660px;
+}
+
+.header__title {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.main__first {
+    padding: 5em;
+}
+
+.first__title {
+    margin-bottom: 3rem;
+}
+
+.main__first .row p {
+    width: 80%;    
+}
+
+.main__second, .main__third {
+    padding: 2.5em;
+    color: #F3EED9;
+}
+
+.main__second {
+    background-color: #222C2A;
+}
+
+.second__title, .third__title {
+    margin-bottom: 1rem;
+}
+
+.main__third {
+    background-color: #824936;
+}
+
+.image--third {
+    order: -1;
+}
+
+.second__left, .image--second {
+    width: 50%;
+}
+
+.third__left, .image--third {
+    width: 50%;    
+}
+
+
+
+
