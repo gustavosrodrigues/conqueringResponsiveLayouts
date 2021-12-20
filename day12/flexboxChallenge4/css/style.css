@@ -1,5 +1,6 @@
 * {
     margin: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -51,13 +52,12 @@ img {
 }
 
 .header {    
-    background-color: #f3eed9;
+    background-color: #f3eed9;   
 }
 
 .header--row {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    align-items: center;
     min-height: 660px;
 }
 
