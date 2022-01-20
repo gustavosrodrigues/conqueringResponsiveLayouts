@@ -13,16 +13,19 @@ Curso de 21 dias com foco em criação de layout responsivo usando flexbox.
 
 <br>
 
-## Designs do desafio final
+## Designs do desafio final <br>
 
+### CRL smartphone
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gustavosrodrigues/conqueringResponsiveLayouts/main/layouts/small.png" alt="Layout Pequeno" width="1280" title="Página Alurinha Pequena">
-</p>
+  <img src="https://raw.githubusercontent.com/gustavosrodrigues/conqueringResponsiveLayouts/main/layouts/small.png" alt="Layout Pequeno" width="320" title="Página CRL Pequena">
+</p> <br>
 
+### CRL tablet
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gustavosrodrigues/conqueringResponsiveLayouts/main/layouts/medium.png" alt="Layout Médio" width="1280" title="Página Alurinha Média">
-</p>
+  <img src="https://raw.githubusercontent.com/gustavosrodrigues/conqueringResponsiveLayouts/main/layouts/medium.png" alt="Layout Médio" width="999" title="Página CRL Média">
+</p> <br>
 
+### CRL desktop
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gustavosrodrigues/conqueringResponsiveLayouts/main/layouts/big.png" alt="Layout Grande" width="1280" title="Página Alurinha Grande">
-</p>
+  <img src="https://raw.githubusercontent.com/gustavosrodrigues/conqueringResponsiveLayouts/main/layouts/big.png" alt="Layout Grande" width="1920" title="Página CRL Grande">
+</p> <br>
